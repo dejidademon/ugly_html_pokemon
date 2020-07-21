@@ -15,13 +15,28 @@ body {
 #starters_image_div {
 overflow: hidden;
 border: 10px blue solid;
-border-radius: 25px;
+border-radius: 15px;
 }
 
 #bulbasaur_container {
     background-color: blue;
     border: white solid 10px;
-    border-radius: 25px;
+    border-radius: 15px;
+}
+#charmander_container {
+background-color: blue;
+border: white solid 10px;
+border-radius: 15px;
+}
+
+#squirtle_container {
+background-color: blue;
+border: white solid 10px;
+border-radius: 15px;
+}
+
+.pokemon_names {
+    text-align:left; 
 }
 
 ul {
